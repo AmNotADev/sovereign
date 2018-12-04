@@ -36,7 +36,8 @@ free distribution, no distribution, limited (to specific organizations) distribu
 commercial usage allowance, no usage allowance, and requirements for code to be successfully committed and
 merged. This license is not restricting by itself in how the repository can be used, but the Holder must define
 their guidelines in a Readme and Contributing document. Quality Assurance and having a local copy of the code
-for editing or private testing are not behaviors that can be restricted by Holders of this license.
+for editing or private testing are not behaviors that can be restricted by Holders of this license, unless used
+for commercial purposes or public access.
 
 COMPLIANCE (B)
 
@@ -65,8 +66,8 @@ repository documents. Upon the 91st day this license will void and should be rem
 
   If the Holder is notified about a compliance issue, they have 15 days from the notice to correct the problem 
 before the license is considered voided. Not complying with these guidelines forfeits all protections granted in 
-this license. This license can be referenced against the root at <github link> to confirm that the content has not 
-been modified.
+this license. This license can be referenced against the root at https://github.com/For-The-Users/Sovereign/LICENSE 
+to confirm that the content has not been modified.
 
 SYNOPSIS (C)
 
@@ -90,8 +91,8 @@ open-contribution license.
     * Agree to call out the Holder on anti-compliance practices or forfeit their right to dispute the 
 protections in this license.
 
-  Members, Carriers, and Holders should refer to the documentation at the bottom and on our wiki to learn 
-more about notices, anti-compliance, and disputes.
+Members, Carriers, and Holders should refer to the APPENDIX for our documentation if they have questions about 
+the license or complaints with Holders compliance.
 
 
 APPENDIX
@@ -134,4 +135,4 @@ requirements to get code approved.
 to maintain code structure and readability across different files.
 
   "Quality Assurance" refers to all private or local testing for errors, bugs, and can include locally 
-hosting for testing. Quality Assurance does not include hosting a version to let other use or test it.
+hosting for testing. Quality Assurance does not include hosting a version with users using or testing it.
