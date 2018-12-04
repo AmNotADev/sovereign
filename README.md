@@ -14,3 +14,5 @@ If you're looking for more information, please check these links.
 * [Wiki](https://github.com/For-The-Users/Sovereign/wiki) (Documentation)
 * [Releases](https://github.com/For-The-Users/Sovereign/releases) (License Versions)
 * [Example](https://github.com/For-The-Users/imp-sovereign) (Repository Example)
+
+This repository is not licensed, the license file serves the purpose of being pulled from as a resource.
