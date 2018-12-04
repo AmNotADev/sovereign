@@ -1,39 +1,43 @@
 
-                                            Sovereign License
+                                             Sovereign License
 
-                                        Version 0.7, December 2018
+                                         Version 0.8, December 2018
 
-                                       Copyright <year> by <holder>.
+                                        Copyright <year> by <holder>.
 
 
 PREAMBLE (A)
 
-  The Sovereign "License" is an Open-Contribution license intended for Enterprise and Commercial products and 
-organizations aiming to control their distribution and code ownership while accepting community contributions, 
-code reviews, and issue submissions. The Sovereign license is in place to protect the product or organization, 
-while averting the need for a Contributor License Agreement (CLA). This license is primarily for use in a git 
-environment.
+  The Sovereign License, "License," is an Open-Contribution license intended for Enterprise and Commercial products 
+and organizations aiming to control their distribution and asset ownership while accepting community contributions, 
+code reviews, and issue submissions. The Sovereign license is in place to protect the product or organization, while 
+averting the need for a Contributor License Agreement (CLA). This license is primarily for use in a git environment.
+
+  All terms used in this license can be referenced by the Glossary at the end of this license. This license itself 
+offers no warranties or copyright notices except those given by the owner of the repository, "repository". The 
+creators of this license are not responsible for any of the projects using this license or to update this license 
+after each release. All warranties and copyrights must be noted by the owners of the repository using this license,
+we accept no fault for incomplete documentation.
 
   The owner of this repository and officials acting on their behalf shall be known as "Holders" of this license. 
-You, the "Member" or "Carrier," are a code contributor or distributor who are agreeing to the terms stated in 
-this license and in the other documents of this repository. You will be expected to comply with all guidelines,
+You, the "Member" or "Carrier," are a contributor or distributor who are agreeing to the terms stated in this license 
+and in the other documents of this repository. You will be expected to comply with all guidelines,
 assuming the Holders comply with the license requirements. 
 
-  Neglecting to read this license and/or the documents of a repository does not protect you against this license.
-All contributors and distributors and held to the guidelines as stated in this license and by the Holders in the
-repositories documents without exemption. You can find out the guidelines of which you are held to in either 
-this document, the Readme.md, Contributing.md, or another document in the repository. 
+  Neglecting to read this license and/or the documents, "Documents," of a repository does not protect you against
+this license. All contributors and distributors and held to the guidelines as stated in this license and by the 
+Holders in the repositories documents without exemption. You can find out the guidelines of which you are held to 
+in either this document, the Readme.md, Contributing.md, or another document in the repository. 
 
   All derivative licenses or agreements based off this license, and/or, forked from this license are not
-officially endorsed by or supported in this license. This license itself offers no warranties or copyright 
-notices except those given by the owner of the repository. This license is an Open-Contributor License, similar
+officially endorsed by or supported in this license. This license is an Open-Contributor License, similar
 to Open-Source but the owner of the repository retains full rights over ownership, distribution, and copyright.
 This license is intended to hold the Holder, Members, and Carriers accountable to each other via set Guidelines
-and Policies.
+and Policies. 
 
   All guidelines set in the documents of this repository are upheld by this license, which can include allowing
 free distribution, no distribution, limited (to specific organizations) distribution, any style formatting,
-commercial usage allowance, no usage allowance, and requirements for code to be successfully committed and
+commercial usage allowance, no usage allowance, and requirements for assets to be successfully committed and
 merged. This license is not restricting by itself in how the repository can be used, but the Holder must define
 their guidelines in a Readme and Contributing document. Quality Assurance and having a local copy of the code
 for editing or private testing are not behaviors that can be restricted by Holders of this license, unless used
@@ -106,6 +110,8 @@ managers find examples, how to get started with this license, and our versions.
 
 GLOSSARY
 
+  "Asset" refers to all code, architecture, media, or other items in a repository.
+
   "License" refers to this license as a whole and its guidelines.
 
   "Documents" refers to the Readme, Contributing, and other markdown files inside a repository.
@@ -126,7 +132,8 @@ private self-gain. Distribution does not apply to Quality Assurance or Testing o
 
   "Commercial Use" refers to any public and/or monetized use of the code.
 
-  "Readme" refers to a view on-visit document for code.
+  "Readme" refers to a view on-visit document for code, shown upon visitng a repository or found on the 
+root of a folder.
 
   "Contributing Guidelines" refers to a document that explains guidelines for style, contributions, and 
 requirements to get code approved.
@@ -136,3 +143,6 @@ to maintain code structure and readability across different files.
 
   "Quality Assurance" refers to all private or local testing for errors, bugs, and can include locally 
 hosting for testing. Quality Assurance does not include hosting a version with users using or testing it.
+
+  "Notice" refers to a paragraph of text that lines out changes or news needing to be shared with Members 
+and Carriers, as used in a repository document.
