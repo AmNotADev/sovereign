@@ -2,11 +2,11 @@
 
 **Version 0.6, December 2018**
 
-**Copyright `<year>` by `<holder>`.**
+**Made and distributed by MyDef, Inc**
 
 ---
 
-We are sovereign, an enterprise license.
+Sovereign, an open-contribution license.
 
 If you're looking for more information, please check these links.
 
