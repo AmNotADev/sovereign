@@ -76,22 +76,17 @@ provided as-in without any warranty except as noted by the Holder.
   In this License, the Holder;
 
     * Owns all code contributed, without exception.
-
     * Agrees to notify Members and Carriers about changes to Distribution and Contribution guidelines 30 days 
 prior to enforcing the new guidelines.
-
     * Agrees to provide a 91 day notice before going closed-source, including adding a note in the Readme and 
 Contributing documents.
-
     * Will comply with the above guidelines in all cases, or forfeit the protections given by this 
 open-contribution license.
 
   In this license, the Members and Carriers;
 
     * Relinquish all rights over contributed code, without exception.
-
     * Agree to follow all Contribution and Distribution guidelines as stated in the repositories documents.
-
     * Agree to call out the Holder on anti-compliance practices or forfeit their right to dispute the 
 protections in this license.
 
@@ -106,9 +101,7 @@ APPENDIX
 managers find examples, how to get started with this license, and our versions.
 
     Repository - https://github.com/For-The-Users/Sovereign
-  
     Documentation - https://github.com/For-The-Users/Sovereign/wiki
-  
     Versions - https://github.com/For-The-Users/Sovereign/releases
 
 GLOSSARY
