@@ -1,6 +1,6 @@
 **Sovereign License**
 
-**Version 0.8, December 2018**
+**Version 1.0, December 2018**
 
 **Made and distributed by MyDef, Inc**
 
