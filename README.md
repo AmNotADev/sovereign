@@ -2,7 +2,7 @@
 
 **Version 1.0, December 2018**
 
-**Made and distributed by Derp, Inc**
+**Made and distributed by Simple Business**
 
 ---
 
